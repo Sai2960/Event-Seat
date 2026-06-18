@@ -1,0 +1,6 @@
+{
+  "name": "EventSeat",
+  "description": "A simplified full-stack event ticket booking system featuring interactive seat selection, real-time ticket reservation countdowns, and race-condition prevention.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
